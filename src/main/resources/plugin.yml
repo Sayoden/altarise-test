@@ -1,0 +1,5 @@
+main: fr.sayoden.altarise.AltarisePlugin
+version: 1.0.0
+author: Sayoden
+name: AltariseTest
+commands:
